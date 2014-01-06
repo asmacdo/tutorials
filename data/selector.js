@@ -38,6 +38,6 @@ $('*').mouseenter(function() {
   });
 })
 
-$('*').mousout(function() {
+$('*').mouseout(function() {
   resetMatchedElement();
 });
