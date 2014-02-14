@@ -22,3 +22,5 @@ MAIL_PASSWORD = None
 
 # admin list
 ADMINS = ['asmacdo@gmail.com']
+
+POSTS_PER_PAGE = 3
